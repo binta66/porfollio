@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mon site Web - Page centrale</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap" rel="stylesheet">
+
+  <!--
+            =========================================================
+            Protection it's my web site!!!
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            Author           : πctn
+            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+            Copyright  (c) 2022 - πctn
+            =========================================================
+        -->
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <div class="profile">
+        <img src="../image/graffiti.png" alt="Image Profile">
+      </div>
+
+      <!-- Barre de navigation -->
+      <!-- Le conteneur pour la liste de navigation -->
+      <div class="navbar__link">
+        <ul>
+          <li><a href="../index.html">Accueil</a></li>
+          <li><a href="../profile/profile.html">Profile</a></li>
+          <li><a href="../compétences/compétences.html">Compétences</a></li>
+          <li><a href="../projets_professionnels/projets_pro.html">Projets professionnels</a></li>
+          <li><a href="../centre_d_intéret/centre_d_interet.html">Centre d'intéret</a></li>
+        </ul>
+      </div>
+      <img src="../image/icons.png" alt="hamburger menu" class="hamburger_menu">
+    </nav>
+
+
+  </header>
+
+  <main>
+    <h1>Contact</h1>
+    <form action="submit-form.php" method="post" id="contactForm">
+        
+        <input type="text" id="name" name="name" required placeholder="Nom *">
+        <i class="fa-solid fa-user"></i>
+        <br>
+        <!-- 
+        cette ligne crée un champ de nom de formulaire 
+        qui est lié à l'input suivant à l'aide de l'attribut for
+        -->
+        <input type="email" id="email" name="email" required placeholder="Email *">
+        <i class="fa-solid fa-envelope"></i>
+        <br>
+        <!-- 
+        cette ligne crée un label pour le champ de email de formulaire 
+        qui est lié à l'input suivant à l'aide de l'attribut for
+        -->
+        <textarea id="message" name="message" required placeholder="Message *"></textarea>
+        <i class="fa-solid fa-messages"></i>
+        <p id="word-count">0 mots/300</p>
+
+        
+        <br>
+        <!-- 
+        cette ligne crée un label pour le champ de message de formulaire 
+        qui est lié à l'input suivant à l'aide de l'attribut for
+        -->
+        <input type="submit" value="Envoyer" id="envoyer" >
+        <!-- 
+        cette ligne crée un bouton de soumission de formulaire 
+        qui enverra les données saisies au script PHP spécifié dans l'attribut action 
+        lorsque l'utilisateur clique dessus
+        -->
+        <input type="tel" id="phone" name="phone" placeholder="Numéro de téléphone" pattern="[0-9]+">
+        <i class="fas fa-phone-alt"></i>
+        <!-- 
+            L'expression régulière [0-9]+ signifie qu'il doit y avoir au moins un chiffre 
+            (0-9) et peut être répété plusieurs fois (+)
+        -->
+
+    </form>
+  </main>
+
+  <div id="particles-js"></div> <!-- afficher l'animation de particules -->
+
+  
+  <footer>
+    <!-- Bas de page avec les liens -->
+    <ul>
+      <li><a href="mailto:contact@example.com">Contact</a></li>
+      <li><a href="https://www.example.com">Site Web Externe</a></li>
+    </ul>
+  </footer>
+
+  <script src="../js/particles.js"></script>
+  <script src="../js/app.js"></script>
+  <script src="../js/script.js"></script> <!-- Liez le fichier JavaScript externe à votre document HTML -->
+  <script src="../js/formValidation.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,64 @@
+Profile:
+Une nouvelle bachelière, évidemment suis une étudiante en première année en réseaux et télécommunications.
+                    J'ai choisi cette filière car je suis passionnée par les technologies de l'information et de la communication.
+                    Mon portfolio contiendra des exemples de projets que j'ai réalisés dans le cadre de mes études, 
+                    ainsi que des compétences que j'ai acquises dans le domaine des réseaux et des télécommunications.
+                    Je suis très curieuse et aime apprendre de nouvelles choses toujours  à la recherche de nouvelles opportunités pour 
+                    améliorer mes compétences en réseaux et télécommunications. Je souhaiterai travailler dans ce domaine après mes études.
+                    J'espère que vous apprécierez mon travail et que nous pourrons travailler ensemble à l'avenir.
+
+compétence:
+Les trois compétences acquises
+Tout au long de l'année j'ai acquis diverses compétences,le BUT R&T forme les étudiants
+                        aux technologies des réseaux (réseaux d'entreprises, réseaux fixes et 
+                        mobiles des opérateurs de télécommunications, Internet), à l'informatique, 
+                        aux télécommunications (traitement du signal, systèmes de communications 
+                        numériques WIFI, ADSL/VDSL, 4G/5G...) et de manière transversale à la 
+                        cybersécurité. L'objectif est d'acquérir un solide bagage technologique 
+                        associant théorie et pratique (plus de 50 % des cours sont des travaux 
+                        pratiques).<br>Les concepts mathématiques et physiques sont amenés progressivement 
+                        tout au long de la formation en fonction de la technologie étudiée.
+
+I:Administrer les réseaux et l'internet
+
+Le rôle d'un administrateur de réseaux et d'internet est de gérer et de maintenir les réseaux informatiques et 
+                les systèmes connectés à Internet. Cela peut inclure la configuration et la maintenance des serveurs, la gestion 
+                des comptes utilisateurs, la surveillance de la sécurité du réseau, la mise en place de politiques de sécurité, 
+                la gestion des sauvegardes de données et la résolution des problèmes techniques. Les administrateurs de réseaux et
+                d'internet travaillent souvent en étroite collaboration avec d'autres professionnels de l'informatique pour assurer 
+                le bon fonctionnement des systèmes informatiques et des réseaux
+                
+                Codage
+                SSH
+                Services DNS
+                Services DHCP
+                Création d' un site web en html et CSS Bases des services réseaux
+                Sources de données
+
+II:Connecter les entreprises et les usagers
+Le rôle d'un connecteur d'entreprises et d'utilisateurs est de faciliter la communication et la collaboration entre
+                les entreprises et les utilisateurs. Cela peut inclure la création et la gestion de réseaux sociaux, de forums ou 
+                d'autres plateformes de communication en ligne pour permettre aux utilisateurs de poser des questions, de partager
+                des commentaires et de donner leur avis sur les produits et services d'une entreprise. Les connecteurs d'entreprises 
+                et d'utilisateurs peuvent également aider les entreprises à comprendre les besoins et les attentes des utilisateurs et 
+                à adapter leurs produits et services en conséquence. En fin de compte, le rôle d'un connecteur d'entreprises et d'utilisateurs
+                est de favoriser une relation positive et productive entre les entreprises et les utilisateurs.
+
+                Gestion de projets
+                Fondamentaux des systèmes électroniques
+                Support de transmission pour les réseaux locaux
+                Anglais général et init vocabulaire technique
+                Mathématiques du signal
+                Mathématique des transmissions
+                Fondamentaux des systèmes électroniques Signaux et systèmes de transmissions Numérisation de l'information
+
+III:Créer des outils et applications
+
+Le rôle d'un créateur d'outils et d'applications en réseaux et télécommunications est de concevoir, de développer 
+                et de tester des logiciels, des applications et des outils qui améliorent la performance, la sécurité et la fiabilité
+                des réseaux et des systèmes de télécommunications. Les créateurs d'outils et d'applications travaillent souvent en étroite 
+                collaboration avec les ingénieurs en réseau et les professionnels des télécommunications pour comprendre les besoins des 
+                utilisateurs et développer des solutions innovantes pour répondre à ces besoins. Ils sont également chargés de la maintenance
+                et de la mise à jour des outils et applications existants pour garantir leur bon fonctionnement. Le rôle d'un créateur d'outils 
+                et d'applications en réseaux et télécommunications est donc essentiel pour assurer le bon fonctionnement des réseaux et des 
+                systèmes de télécommunications dans les entreprises et les organisations.
